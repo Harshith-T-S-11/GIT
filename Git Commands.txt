@@ -1,0 +1,4 @@
+git init->initalize repo
+git status-> list all untracked files.
+git add -> to add files to staging area
+git add -A ->for multiple files add in the git status to track the file
