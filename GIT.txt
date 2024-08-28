@@ -1,0 +1,8 @@
+Basic Command lines command
+cd->Create directory
+mkdir->create file and 
+ls->view the file
+rm->remove the file
+rmdir->remove the directory
+set-location-> to change to a particular Directoy Location
+touch-create file and modify data
